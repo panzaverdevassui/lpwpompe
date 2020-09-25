@@ -20,6 +20,6 @@ router.get('/pompe/snippet/:id', productoController.list2);
 
 /* router.get('/promo', productoController.promo1);
 router.get('/promo/:id', productoController.promo);
-router.get('/pompe/promo/:id', productoController.promo); */
+router.get('/pompe/promo/:id', productoController.promo);   */
 
 module.exports = router;
