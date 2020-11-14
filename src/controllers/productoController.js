@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 
-const controller = {};
+const controller = {}; 
 
 controller.rubro0 = ((req, res) => {
   const id = 1;
